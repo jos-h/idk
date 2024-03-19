@@ -53,7 +53,7 @@ cd path/to/a/drupal/project
 idk start
 
 # Use it the same way you would have ran composer commands.
-idk composer instal
+idk composer install
 
 # Use it the same way you would have used other commands.
 idk ssh
